@@ -1,0 +1,4 @@
+# FightTheLandlord
+
+heuristic algorithm.
+
